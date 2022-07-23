@@ -1,0 +1,48 @@
+body{
+font-family: arial, helwetica;
+background:#e8e8e8;
+}
+.menu
+{
+
+    list-style: center;
+    padding: 0;
+    background: #082327 ;
+    width: 90%;
+    max-width: 55%;
+    margin: auto;
+
+}
+.menu li a{
+text-decoration: center;
+color: white;
+padding:28px;
+display:  block;
+   
+}
+
+.menu li{
+
+display:inline-block ;
+text-align:center ;
+}
+
+.menu li a:hover{
+background:#ef8354 ;
+
+}
+
+
+article{
+width: 40%;
+text-align:left;
+padding: 10px;
+float: left; 
+}
+
+aside{
+
+    width: 25%;
+    padding: 15px; 
+    float: left; 
+}
